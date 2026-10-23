@@ -24,9 +24,8 @@ I am a passionate **Front-End Developer** focused on creating high-performance, 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedosama0038&show_icons=true&theme=radial" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedosama0038&show_icons=true&theme=dark" alt="Ahmed Osama's GitHub Stats" />
 </p>
 
 ---
@@ -35,7 +34,7 @@ I am a passionate **Front-End Developer** focused on creating high-performance, 
 
 - **Portfolio:** [Visit Portfolio](https://portfolio-two-xi-27.vercel.app)
 - **LinkedIn:** [Ahmed Osama](https://www.linkedin.com/in/ahmed-osama-6642a9397)
-- **Email:** ah.osama303@gmail.com## Hi there 👋
+-- **Email:** ah.osama303@gmail.com
 
 <!--
 **ahmedosama0038/ahmedosama0038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
